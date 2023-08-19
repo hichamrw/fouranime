@@ -1,20 +1,20 @@
 {
 	"ADS": {
 	
-		"native_type": "x",
-		"inter_type": "x",
-		"banner_type": "x",
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
  
  
    
-		"API_URL": "https://github.com/",
+		"API_URL": "https://update.zuzutv.info/api/",
  
 		"ironsource_id": "11c7e1165",
 
 	 
-		"banner_applovin": "9f6993d1d7f4b334",
-		"native_applovin": "56743267898",
-		"interstitial_applovin": "af41d81400048f82",
+		"banner_applovin": "4cf56a9e5290a751",
+		"native_applovin": "d3575c4b4dead903",
+		"interstitial_applovin": "b510148fa37761e6",
 
 
 		"interstitial_admob": "ca-app-pub-/1033173712",
